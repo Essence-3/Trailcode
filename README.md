@@ -1,0 +1,1 @@
+This is a Short or you can say a small login form,  where the user puts in his or her name and a prefered password of choice, then as login button to submit the form, although it is not fully fuctional but it is a start for me. This was made with Javascript and HTML only no CSS.
